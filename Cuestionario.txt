@@ -1,9 +1,9 @@
-1 En tus palabras, ¿Qué es internet? una plataforma y buscador y red para bsuacr distintas cosas
+1 En tus palabras, ¿Qué es internet? Es una red de conexión entre millones de usuarios
 2 Describe los medios físicos y de propagación de ondas por los que se transmite la información en internet
-
-3 ¿Cómo se organiza internet? Habla de las direcciones IP y los DNS.
-4 Describe el procedimiento por el cual una canción de Spotify llega del servidor de la compañía a tu celular.
-5 Describe los protocolos que existen en internet, en específico HTTP y HTML
-6 En dos párrafos cuéntanos lo que aprendiste sobre encriptación y llaves públicas.
-7 En dos párrafos cuéntanos lo que aprendiste sobre cómo protegerte de los criminales en internet.
-8 ¿Cómo funciona la búsqueda de google?
+la informacion que se ocupa en este tipo de medios, naturalmente se transmite de la manera en que los cifrados de la pagina por excelencia nos permite realizar 
+3 ¿Cómo se organiza internet? Habla de las direcciones IP y los DNS. Se organiza por medio de IPs que identifican a un dispositivo en Internet o en una red local y DNs que conectan descentralizadamente los dispositivos a redes IP como Internet o una red privada.
+4 Describe el procedimiento por el cual una canción de Spotify llega del servidor de la compañía a tu celular. se ocupa primeramente la distribuidora que ya cuenta con el permiso del autor y posteriormente ocupa los servidores locales de cada parte donde la cancion esta autorizada y la distribuye de manera que recauda los fondos y regalias que genere.
+5 Describe los protocolos que existen en internet, en específico HTTP y HTML. El HTML define el significado y la estructura del contenido web y HTTP permite las transferencias de información
+6 En dos párrafos cuéntanos lo que aprendiste sobre encriptación y llaves públicas. el enseñaje que uno aprende en este tipo de programas de aprendizaje es de la ayuda para que un fututo y uno quiera aprender a ser o a emprender propiamente un negocio, pueda crear de manera autonoma una pagina para que la gente se meta y posibles clientes observen. Pero no solo de esta manera si no que tambien esta herramnienta nos ayuda y me ha ayudado a comprender mas del mundo informatico, son muchos codigos que se laboran en esta materia pero se sabe que de algo se empieza y esto nos ha ayudado a ver este mundo.
+7 En dos párrafos cuéntanos lo que aprendiste sobre cómo protegerte de los criminales en internet. Existen distintos tipos de personas que quieren siempre aprovecharse de la inexperiencia de unos y una de las maneras para evitar este tipo de problemas es evitar pagians de procedencia dudosa y checar siempre bien el cifrado de cada pagina para evitar un problema futuro.
+8 ¿Cómo funciona la búsqueda de google? Recauda los datos de la web y te muestra los más relevantes y las páginas más visitadas.
